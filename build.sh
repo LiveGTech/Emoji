@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# LiveG Emoji
+# 
+# Copyright (C) LiveG. All Rights Reserved.
+# 
+# https://liveg.tech
+# Licensed by the LiveG Open-Source Licence, which can be found at LICENCE.md.
+
 mkdir -p build
 
 node makelayers.js source.zip overrides extras build LiveG\ Emoji
