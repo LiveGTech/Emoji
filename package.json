@@ -1,0 +1,38 @@
+{
+    "name": "liveg-emoji",
+    "version": "0.1.0",
+    "description": "A font for LiveG OS that provides colour emoji.",
+    "author": "LiveG Technologies",
+    "repository": "https://github.com/LiveGTech/Emoji",
+    "contributors": [
+        "Jonathan Kew <jfkthame@gmail.com>",
+        "Tim Guan-tin Chien <timdream@gmail.com>",
+        "Essem <smswessem@gmail.com>",
+        "Gregory <https://github.com/GrSto>",
+        "Tilman Vatteroth <git@tilmanvatteroth.de>",
+        "Lim Chunwei <https://github.com/win98se>"
+    ],
+    "dependencies": {
+        "grunt": "^1.4.1",
+        "grunt-cli": "^1.4.3",
+        "grunt-webfonts": "^4.0.2",
+        "load-grunt-tasks": "^5.1.0",
+        "rmdir": "^1.2.0",
+        "unzip": "^0.1.11",
+        "xml2js": "^0.4.23",
+        "xmlbuilder": "^15.1.1"
+    },
+    "overrides": {
+        "graceful-fs": "^4.2.10"
+    },
+    "devDependencies": {
+        "emojibase-data": "^7.0.1",
+        "resemblejs": "^4.1.0"
+    },
+    "scripts": {
+        "grunt": "grunt"
+    },
+    "resolutions": {
+        "graceful-fs": "^4.2.9"
+    }
+}
