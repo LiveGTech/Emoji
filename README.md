@@ -1,5 +1,5 @@
 # LiveG Emoji
-A font for LiveG OS that provides colour emoji.
+A font for [LiveG OS](https://github.com/LiveGTech/OS) that provides colour emoji.
 
 Licensed by the [LiveG Open-Source Licence and other licences](LICENCE.md).
 
