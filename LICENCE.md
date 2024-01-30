@@ -23,6 +23,7 @@ OTHER LIABILITIES.
 
 ## B. Apache License, Version 2.0
 Copyright 2016-2018, Mozilla Foundation
+
 Copyright © LiveG. All Rights Reserved. (2023-)
 
 Licensed under the Apache License, Version 2.0 (the "License");
